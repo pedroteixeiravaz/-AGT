@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+body {
+  background-position: left;
+  background-size: 1920px 1600px;
+  background-repeat: no-repeat;
+  background-image: url('../imagens/wallpaper002.jpg');
+  margin: 0px;
+}
+
+header {
+  height: 250px;
+  width: 1920px;
+  background-color: rgb(43, 160, 255);
+}
+
+header h1 {
+  text-align: center;
+  margin: 0px;
+  padding: 10px;
+}
+
+header p {
+  text-align: center;
+  margin: 0px;
+  padding: 10px;
+  font-size: 13pt;
+}
+
+header nav {
+  margin: 1px;
+  padding: 10px;
+  font-size: 14pt;
+}
+
+header nav a {
+  text-decoration: none;
+  color: rgb(233, 242, 255);
+  font-weight: bold;
+  margin: 0px;
+  padding: 0px;
+}
+
+header nav a:hover {
+  background-color: rgb(255, 255, 255);
+  color: rgb(43, 160, 255);
+  border-radius: 5px;
+  padding: 7px;
+}
