@@ -2,7 +2,7 @@
 
  Sistema de Gerenciamento de Estoque
 
-# Home
+## Home
 
  A pagina inicial do sistema de gerenciamento de estoque
  e uma pagina que mostra as informações gerais do sistema,
